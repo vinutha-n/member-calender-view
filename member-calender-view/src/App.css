@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+.item .opening {
+  display: none;
+}
+
+.active .opening {
+  display: block
+}
